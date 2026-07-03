@@ -1,1 +1,3 @@
-'Hello, Hexlet! How are you?' 
+'Hello, Hexlet!' 
+"# hexlet-git" 
+'no code no pain' 
